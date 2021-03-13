@@ -244,6 +244,9 @@ footer {
   .r1 ,.r2 ,.r3{
     display: block;
   }
+    #main header h1{
+    font-size: 2em;
+  }
   .star{
     margin: auto;
     text-align: center;
